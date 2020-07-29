@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Ally, Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, @LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
+I'm Ally, 
+
+![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
+
+Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, @LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
 
 [LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/)
 
