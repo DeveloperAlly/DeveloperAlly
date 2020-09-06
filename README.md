@@ -8,7 +8,7 @@ Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citi
 
 Ohhh.. and check out the TechJam podcast 😄
 
-[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/)
+[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website](https://developerally.com)
 
 ![](https://techjam.dev/wp-content/uploads/2020/07/TechJam-300x298.png)
 
