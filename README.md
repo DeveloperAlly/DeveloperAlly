@@ -6,6 +6,8 @@ I'm Ally,
 
 Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
 
+Ohhh.. and check out the TechJam podcast 😄
+
 [LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/)
 
 ![](https://techjam.dev/wp-content/uploads/2020/07/TechJam-300x298.png)
