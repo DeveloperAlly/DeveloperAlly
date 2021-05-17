@@ -185,7 +185,7 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
 
  ---
 
-[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website - pending](https://developerally.com)
+[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website](https://developerally.com)
 
 <!--
 **DeveloperAlly/DeveloperAlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
