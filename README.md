@@ -114,8 +114,11 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
 2003 - 2010
 
     +	Successfully ran a small business with up to 10 staff members for 7 years
+    
     +	Leadership, problem solving, management 
+    
     + HR and PR skills including Team building & Business networking
+    
     + Staff & small business management including basic accounting
 
 
