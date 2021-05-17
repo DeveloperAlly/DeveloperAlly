@@ -25,7 +25,7 @@ Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer
  ---
 
 
-### Developer Advocacy Links 🦄
+### See me in action! 🦄
 
 
 Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
@@ -47,14 +47,6 @@ TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/
 Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
 
  ---
-
-### Contact Me 📫 
-
-Email: alihaire900@gmail.com
-
-Socials: See above tiles
-
- ---
  
  ### Get to know me 😊
 
@@ -66,6 +58,14 @@ Accenture Australia Post: [See more on my transition from uni to Accenture](http
 iAccelerate Startup Post: [Find out about my startup journey](https://www.iaccelerate.com.au/nine-businesses-accepted-into-iaccelerate-s-first-intake-of-2017/)
 
 TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics!](https://techjam.dev/)
+
+ ---
+ 
+ ### Contact Me 📫 
+
+Email: alihaire900@gmail.com
+
+Socials: See above tiles
 
  ---
 
