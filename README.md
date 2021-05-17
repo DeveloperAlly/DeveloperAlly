@@ -50,6 +50,10 @@ April 2020 - current
     +	Organise and run events, Hackathons and Meetups across Australia / New Zealand
 
     +	Develop and run workshops for clients, partners and community on IBM technology, Design Thinking and Innovation
+    
+    +	Developing and building the IBM developer community 
+    
+    +	Socials and media management and appearances
 
 
 UNIVERSITY OF SYDNEY – Senior Software Engineer
@@ -136,12 +140,27 @@ TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics
 
  ---
 
+
 ### Developer Advocacy Links 🦄
 
+Build a react native app with chatbot and map features on IBM Cloud [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
-[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website](https://developerally.com)
+APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
-![](https://techjam.dev/wp-content/uploads/2020/07/TechJam-300x298.png)
+ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
+
+IBM Call For Code Hackathon ANZ: [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
+
+TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
+
+Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
+
+Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
+
+
+ ---
+
+[LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website - pending](https://developerally.com)
 
 <!--
 **DeveloperAlly/DeveloperAlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
