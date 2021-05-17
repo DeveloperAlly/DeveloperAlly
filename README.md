@@ -75,7 +75,14 @@ TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics
 
 Email: alihaire900@gmail.com
 
-Socials: See above tiles
+Socials: <p>
+  <a href="https://www.linkedin.com/in/ally-haire/"><img height="30" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/DeveloperAlly"><img height="30" src="https://www.freeiconspng.com/uploads/twitter-icon-download-18.png"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg/videos"><img height="30" src="https://www.freeiconspng.com/uploads/youtube-icon-app-logo-png-9.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/developerally"><img height="30" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png"></a>&nbsp;&nbsp;
+  <a href="https://techjam.dev/"><img height="30" src="https://www.freeiconspng.com/uploads/spotify-icon-18.png"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7254678/ally-haire"><img height="30" src="https://mpng.subpng.com/20180719/kfa/kisspng-stack-overflow-software-developer-computer-icons-l-overflowing-5b505e61d6db45.4750561915319936978801.jpg"></a>
+</p>
 
  ---
 
