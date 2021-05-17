@@ -17,6 +17,40 @@ I'm Ally,
 
 Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
 
+
+ ---
+
+### Get to know me 😊
+
+
+FIIT Collective Podcast: [Find out more about my story and advocacy for women in STEM](https://fiitcollective.com/transition-university-to-workplace/)
+
+Accenture Australia Post: [See more on my transition from uni to Accenture](https://www.accenture.com/au-en/blogs/blogs-coffee-beans-to-coding)
+
+iAccelerate Startup Post: [Find out about my startup journey](https://www.iaccelerate.com.au/nine-businesses-accepted-into-iaccelerate-s-first-intake-of-2017/)
+
+TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics!](https://techjam.dev/)
+
+ ---
+
+
+### Developer Advocacy Links 🦄
+
+
+Build a react native app with chatbot and map features on IBM Cloud [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
+
+APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+
+ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
+
+IBM Call For Code Hackathon ANZ: [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
+
+TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
+
+Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
+
+Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
+
  ---
 
 ### Contact Me 📫 
@@ -127,40 +161,6 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
     + HR and PR skills including Team building & Business networking
     
     + Staff & small business management including basic accounting
-
-
- ---
-
-### Get to know me 😊
-
-
-FIIT Collective Podcast: [Find out more about my story and advocacy for women in STEM](https://fiitcollective.com/transition-university-to-workplace/)
-
-Accenture Australia Post: [See more on my transition from uni to Accenture](https://www.accenture.com/au-en/blogs/blogs-coffee-beans-to-coding)
-
-iAccelerate Startup Post: [Find out about my startup journey](https://www.iaccelerate.com.au/nine-businesses-accepted-into-iaccelerate-s-first-intake-of-2017/)
-
-TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics!](https://techjam.dev/)
-
- ---
-
-
-### Developer Advocacy Links 🦄
-
-
-Build a react native app with chatbot and map features on IBM Cloud [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
-
-APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
-
-ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
-
-IBM Call For Code Hackathon ANZ: [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
-
-TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
-
-Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
-
-Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
 
 
  ---
