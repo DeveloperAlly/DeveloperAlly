@@ -28,6 +28,7 @@ Socials: See above tiles
 
 ### Education 🎓
 
+
 BACHELOR OF ENGINEERING (MECHATRONICS) / BACHELOR OF COMPUTER SCIENCE 2017 – University of Wollongong, NSW, Australia
 
       +	High Distinction average in Computer Science – received Distinction. 
@@ -42,6 +43,7 @@ BACHELOR OF ARTS – Australian National University, A.C.T. Australia 2000
  ---
 
 ### Experience 👩‍💻
+
 
 IBM – Developer Advocate
 
@@ -128,7 +130,8 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
 
  ---
 
-### Get to know me 🦄
+### Get to know me 😊
+
 
 FIIT Collective Podcast: [Find out more about my story and advocacy for women in STEM](https://fiitcollective.com/transition-university-to-workplace/)
 
@@ -142,6 +145,7 @@ TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics
 
 
 ### Developer Advocacy Links 🦄
+
 
 Build a react native app with chatbot and map features on IBM Cloud [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
