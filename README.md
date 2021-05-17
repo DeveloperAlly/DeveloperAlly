@@ -30,7 +30,7 @@ Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer
 
 
 
-APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+APIDays Jarkata Conference - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
 Build a react native app with chatbot and map features on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
