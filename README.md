@@ -18,7 +18,7 @@
 
 I'm Ally, 
 
-[](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
+![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
 
 Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐
 
@@ -29,6 +29,7 @@ Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer
 ### Developer Advocacy Links 🦄
 
 
+Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
 APIDays Jarkata Conference - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
@@ -36,11 +37,13 @@ Build a react native app with chatbot and map features on IBM Cloud: [YouTube](h
 
 ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
+IBM Developer Meetup Replays ANZ 2020: [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
+
+AusIOT Meetups 2020: [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
+
 IBM Call For Code Hackathon ANZ: [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
 
 TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
-
-Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
 Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
 
