@@ -3,8 +3,7 @@
 <a href="#"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.linkedin.com/in/ally-haire/" title="Flaticon">www.flaticon.com</a>
+<a href="https://www.linkedin.com/in/ally-haire/"><img height="30" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621240752~hmac=1035388384e88da52835ce729c884400"></a>
 </p>
 
 
