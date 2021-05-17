@@ -20,24 +20,11 @@ Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citi
 
  ---
 
-### Get to know me 😊
-
-
-FIIT Collective Podcast: [Find out more about my story and advocacy for women in STEM](https://fiitcollective.com/transition-university-to-workplace/)
-
-Accenture Australia Post: [See more on my transition from uni to Accenture](https://www.accenture.com/au-en/blogs/blogs-coffee-beans-to-coding)
-
-iAccelerate Startup Post: [Find out about my startup journey](https://www.iaccelerate.com.au/nine-businesses-accepted-into-iaccelerate-s-first-intake-of-2017/)
-
-TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics!](https://techjam.dev/)
-
- ---
-
 
 ### Developer Advocacy Links 🦄
 
 
-Build a react native app with chatbot and map features on IBM Cloud [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
+Build a react native app with chatbot and map features on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
@@ -58,6 +45,19 @@ Learn ReactJS in 2020 Resources Blog: [Blogpost](https://dev.to/developerally/wa
 Email: alihaire900@gmail.com
 
 Socials: See above tiles
+
+ ---
+ 
+ ### Get to know me 😊
+
+
+FIIT Collective Podcast: [Find out more about my story and advocacy for women in STEM](https://fiitcollective.com/transition-university-to-workplace/)
+
+Accenture Australia Post: [See more on my transition from uni to Accenture](https://www.accenture.com/au-en/blogs/blogs-coffee-beans-to-coding)
+
+iAccelerate Startup Post: [Find out about my startup journey](https://www.iaccelerate.com.au/nine-businesses-accepted-into-iaccelerate-s-first-intake-of-2017/)
+
+TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics!](https://techjam.dev/)
 
  ---
 
