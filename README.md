@@ -29,9 +29,10 @@ Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer
 ### Developer Advocacy Links 🦄
 
 
-Build a react native app with chatbot and map features on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 APIDays Jarkata - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+
+Build a react native app with chatbot and map features on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
