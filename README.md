@@ -182,10 +182,10 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
     
     +	Leadership, problem solving, management 
     
-    + HR and PR skills including Team building & Business networking
+    +	HR and PR skills including Team building & Business networking
     
-    + Staff & small business management including basic accounting
-
+    +	Staff & small business management including basic accounting
+    
 
  ---
 
