@@ -75,7 +75,7 @@ TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics
 
 Email: alihaire900@gmail.com
 
-<p>Socials:
+<p height="40" align="center">Socials:
   <a href="https://www.linkedin.com/in/ally-haire/"><img height="30" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/DeveloperAlly"><img height="30" src="https://www.freeiconspng.com/uploads/twitter-icon-download-18.png"></a>&nbsp;&nbsp;
 </p>
