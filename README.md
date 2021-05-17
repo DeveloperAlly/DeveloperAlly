@@ -7,14 +7,15 @@
   <a href="https://stackoverflow.com/users/7254678/ally-haire"><img height="30" src="https://mpng.subpng.com/20180719/kfa/kisspng-stack-overflow-software-developer-computer-icons-l-overflowing-5b505e61d6db45.4750561915319936978801.jpg"></a>
 </p>
 
-<a href="https://www.freeiconspng.com/img/15398" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/spotify-icon-18.png" width="350" alt="Library Spotify Icon" /></a>
+
 
 ### Hi there 👋
 
 
+
 I'm Ally, 
 
-<!-- ![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg) -->
+[](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
 
 Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐
 
