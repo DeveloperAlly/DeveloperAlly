@@ -23,6 +23,15 @@ I'm Ally,
 Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐
 
 
+I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I have a passion for helping people by sharing knowledge and working closely with developers and open source communities around the world.
+
+
+Coming from a strong background in technology consultancy, research & development, I have scoped and delivered projects of all sizes, budgets and timelines. I'm experienced in hands-on small business and startup operations, and applying technology to solve real world business problems by building scalable and feasible solutions.
+
+
+I'm passionate about the intersection between creativity, technology and society and our opportunity to change standards for people in this new era.
+
+
  ---
 
 
@@ -96,6 +105,8 @@ April 2020 - current
     +	Organise and run events, Hackathons and Meetups across Australia / New Zealand
 
     +	Develop and run workshops for clients, partners and community on IBM technology, Design Thinking and Innovation
+    
+    +	Work with clients and partners to solve technical challenges
     
     +	Developing and building the IBM developer community 
     
