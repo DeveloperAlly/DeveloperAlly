@@ -16,17 +16,26 @@ I'm Ally,
 
 Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
 
+============
+
+### Contact Me 📫 
+
+Email: alihaire900@gmail.com
+Socials: See above tiles
+
+============
+
+### Education 🎓
 
 
+============
+
+### Experience 👩‍💻
 
 
+============
 
-
-
-
-
-
-
+### Developer Advocacy 🦄
 
 Ohhh.. and check out the TechJam podcast - it's delicious 😄
 
