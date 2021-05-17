@@ -15,6 +15,8 @@
 
 
 
+
+
 I'm Ally, 
 
 ![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
