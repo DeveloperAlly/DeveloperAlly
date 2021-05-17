@@ -13,13 +13,12 @@
 
 ### Hi there 👋
 
-
+![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
 
 
 
 I'm Ally, 
 
-![](https://developerally.com/gallery_gen/6d5db33886887bd07f5ad3fe8dff21ae_464x619.jpg)
 
 Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐
 
