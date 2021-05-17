@@ -23,17 +23,17 @@ Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citi
 Email: alihaire900@gmail.com
 Socials: See above tiles
 
-============
+ ---
 
 ### Education 🎓
 
 
-============
+ ---
 
 ### Experience 👩‍💻
 
 
-============
+ ---
 
 ### Developer Advocacy 🦄
 
