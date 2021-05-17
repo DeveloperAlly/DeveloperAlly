@@ -16,7 +16,7 @@ I'm Ally,
 
 Developer Advocate @ibm, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist & entrepreneur 👩‍💻, aspiring francophone 🥐
 
-============
+ ---
 
 ### Contact Me 📫 
 
