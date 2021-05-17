@@ -1,9 +1,9 @@
-# [![alison haire header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 <p align='center'>
   <a href="https://www.linkedin.com/in/ally-haire/"><img height="30" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621241055~hmac=d3ee563cf6f3f7d22a104ad12d967c60"></a>
   <a href="https://twitter.com/DeveloperAlly"><img height="30" src="https://img-premium.flaticon.com/png/512/174/174876.png?token=exp=1621240959~hmac=caf49ce7a85276087d2d70c9fad41d79"></a>&nbsp;&nbsp;
   <a href="https://dev.to/developerally"><img height="30" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png"></a>&nbsp;&nbsp;
   <a href="https://techjam.dev/"><img height="30" src="https://img-premium.flaticon.com/png/512/174/174872.png?token=exp=1621241263~hmac=0d2f18d131c53d664c7e15b68bec6f7c"></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/7254678/ally-haire"><img height="30" src="https://img-premium.flaticon.com/png/512/2111/2111628.png?token=exp=1621241513~hmac=f93bb351d953a423439eb09c6470b987"></a>
 </p>
 
 
