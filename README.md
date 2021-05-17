@@ -82,14 +82,18 @@ Socials: See above tiles
 ### Education 🎓
 
 
-BACHELOR OF ENGINEERING (MECHATRONICS) / BACHELOR OF COMPUTER SCIENCE 2017 – University of Wollongong, NSW, Australia
+BACHELOR OF ENGINEERING (MECHATRONICS) / BACHELOR OF COMPUTER SCIENCE – University of Wollongong, NSW, Australia
+
+2012 - 2017
 
       +	High Distinction average in Computer Science – received Distinction. 
       
       +	Credit to Distinction average in Engineering - received Honours
       
 
-BACHELOR OF ARTS – Australian National University, A.C.T. Australia 2000
+BACHELOR OF ARTS – Australian National University, A.C.T. Australia 
+
+1999 - 2001
 
     +	Majors: Philosophy, Politics, Anthropology, French
 
