@@ -141,6 +141,8 @@ Jan 2018 - Nov 2019
     
     +	Leading boot camps (hiring hackathons run over 4 days) and mentoring students to develop a solution-based MV. Products include a Flutter app with a Splunk            backend, and a react native app – screenshots can be made available on request.
     
+    + Mentoring Blockchain Hackathon
+    
 
 LITTLE ELF LAUNDRY CO-FOUNDER – hosted at iAccelerate startup incubator, Wollongong, Australia
 
