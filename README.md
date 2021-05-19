@@ -106,15 +106,15 @@ IBM – Developer Advocate
 
 April 2020 - current
 
-    +	Organise and run events, Hackathons and Meetups across Australia / New Zealand
-
+    +	Organise and run external events (virtual/hybrid), Global/local Hackathons and Meetups through region
+    
     +	Develop and run workshops for clients, partners and community on IBM technology, Design Thinking and Innovation
     
-    +	Work with clients and partners to solve technical challenges
+    +	Work closely with clients and partners to solve technical challenges, run enablement session and other developer workshop engagements 
     
-    +	Developing and building the IBM developer community 
+    +	Assisted with developing and building out the IBM developer community within region
     
-    +	Socials and media management and appearances
+    +	Company message delivery via socials media management, appearances and audience resonances methods	
 
 
 UNIVERSITY OF SYDNEY – Senior Software Engineer
