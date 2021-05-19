@@ -40,7 +40,7 @@ I'm passionate about the intersection between creativity, technology and society
 
 Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
-APIDays Jakarta Conference - Coud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+APIDays Jakarta Conference - Cloud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
 Build a react native app with Watson chatbot and map on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
@@ -106,9 +106,9 @@ IBM – Developer Advocate
 
 April 2020 - current
 
-    +	Organise and run external events (virtual/hybrid), Global/local Hackathons and Meetups through region
+    +	Organise and run external events (virtual/hybrid), Global/local Hackathons and Meetups throughout the APAC region
     
-    +	Develop and run workshops for clients, partners and community on IBM technology, Design Thinking and Innovation
+    +	Develop and run workshops for clients, partners and community on IBM technology, Design Thinking and Innovation & Culture
     
     +	Work closely with clients and partners to solve technical challenges, run enablement session and other developer workshop engagements 
     
