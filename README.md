@@ -48,7 +48,9 @@ TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/
 
 ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
-IBM Developer Meetups ANZ 2020: [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
+IBM Developer Blockchain Meetup: [YouTube](https://www.youtube.com/watch?v=5CMdJxcMOZU)
+
+All IBM Developer Meetups ANZ 2020: [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
 
 AusIOT Meetups 2020: [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
 
