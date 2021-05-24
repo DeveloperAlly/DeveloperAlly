@@ -10,7 +10,7 @@
 
 
 
-Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐
+<div align='center'>Developer Advocate @[ibm](https://developer.ibm.com), developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐</div>
 
  ---
 
