@@ -175,13 +175,24 @@ LITTLE ELF LAUNDRY CO-FOUNDER – hosted at iAccelerate startup incubator, Wollo
 
 FREELANCE FULL STACK DEVELOPER
 
-2016-2017
+2016-current
 
-    +	Founded and ran a freelance web and mobile development company.
+    +	Founded and run a freelance web and mobile development business.
     
     +	Worked with clients to deliver solutions utilising the latest technologies to give longevity and ease of maintenance.
     
-    +	Main solutions included a complete rewrite of a financial app into react native (previously built in ios and phoneGap) that worked with the client’s current backend API and upgraded the features of their current app and building a website for another clients brand new product in react and hosting it on AWS. 
+    +	Project include:
+    
+        + Re-architecturing and modernising a financial app into react native (previously built in ios and phoneGap) that worked with the client’s current backend API and upgraded the features of their current app
+        
+        + Building websites in reactjs and deploying to AWS. 
+        
+        + Re-architecturing and modernising a financial app into react native (previously built in ios and phoneGap) that worked with the client’s current backend API and upgraded the features of their current app building a website for another clients brand new product in react and hosting it on AWS. 
+        
+        + Design, fullstack development and management of a novel indigenous community project aimed at connecting remote community businesses, including training and management of a small team of university developers
+        
+        + Design, fullstack development and management of a document template project, including training and management of a small team of university developers
+        
 
 ENGINEERING & STEM TUTOR – University of Wollongong, Australia
 
