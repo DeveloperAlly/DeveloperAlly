@@ -31,16 +31,21 @@ Coming from a strong background in technology consultancy, research & developmen
 
 
 I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I have a passion for education and for helping people by sharing knowledge and working closely with developers and open source communities around the world.
+
+
 Coming from a strong background in technology consultancy, research & development I have scoped and delivered projects of all sizes, budgets and timelines. I'm also experienced in hands-on small business and startup operations, and in applying technology to solve real world business and societal problems by building scalable and feasible solutions.
+
+
 I previously owned and operated a successful café before going on to complete degrees in Mechtronics Engineering and Computer Science in 2017.
 Whilst studying, I co-founded a startup after winning a hackathon and worked through the iAccelarate business incubator to build out our solution. 
 Throughout my studies, I worked as a freelance developer building websites and mobile applications (react + react-native/android) for clients and managing requirements and needs.
+
+
 I have since worked on enterprise-level technologies at Accenture Australia, primarily focused on full stack development, deployment and integration of our teams flagship AIOps product to high value clients and Fortune 500 companies.
 I also worked to develop the software for a novel ML and IOT surveillance system  in a joint collaboration between the Defence Department and University of Sydney Physics Department
-I’m currently working as a Developer Advocate for IBM where I focus on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements
-CONTACT
-![image](https://user-images.githubusercontent.com/12529822/119334671-bcb20400-bcce-11eb-8538-427c756d9e26.png)
 
+
+I’m currently working as a Developer Advocate for IBM where I focus on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements
 
 
  ---
