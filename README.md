@@ -48,23 +48,25 @@ I’m currently working as a Developer Advocate for IBM where I focus on buildin
 ### See me in action! 🦄
 
 
-Tech Innovations that will change our future: [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
+Tech Innovations that will change our future (writeup from a live workshop): [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
-APIDays Jakarta Conference - Cloud Native & OpenShift: [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+APIDays Jakarta Conference - Cloud Native & OpenShift (live): [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
-Build a react native app with Watson chatbot and map on IBM Cloud: [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
+Build a react native app with Watson chatbot and map on IBM Cloud (live): [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
 
-ArtHack Hackathon - Techonology in Art: [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
+ArtHack Hackathon - Techonology in Art (live): [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
-IBM Developer Blockchain Meetup: [YouTube](https://www.youtube.com/watch?v=5CMdJxcMOZU)
+IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
 
-All IBM Developer Meetups ANZ 2020: [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
+IBM Developer Blockchain Meetup (co-organiser): [YouTube](https://www.youtube.com/watch?v=5CMdJxcMOZU)
 
-AusIOT Meetups 2020: [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
+AusIOT Meetups 2020 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
 
-IBM Call For Code Hackathon ANZ: [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
+IBM Call For Code Hackathon ANZ (co-organiser): [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
+
+IBM Call For Code Hackathon ANZ (organiser): [Videos](https://www.youtube.com/watch?v=yuPMBpHaymA&list=PLtiUNuEehjeJHBtQljBJG0yBJUfIPs5Zi)
 
 Learn ReactJS in 2020 - Resources: [Blogpost](https://dev.to/developerally/want-to-learn-reactjs-here-s-the-2020-resource-list-for-you-3n57)
 
