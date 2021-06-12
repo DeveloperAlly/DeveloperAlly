@@ -30,13 +30,6 @@ I'm a coder, engineer and tech enthusiast who believes in the benefits technolog
 
 Coming from a strong background in technology consultancy, research & development, I have scoped and delivered projects of all sizes, budgets and timelines. I'm experienced in hands-on small business and startup operations, and applying technology to solve real world business problems by building scalable and feasible solutions.
 
-
-I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I have a passion for education and for helping people by sharing knowledge and working closely with developers and open source communities around the world.
-
-
-Coming from a strong background in technology consultancy, research & development I have scoped and delivered projects of all sizes, budgets and timelines. I'm also experienced in hands-on small business and startup operations, and in applying technology to solve real world business and societal problems by building scalable and feasible solutions.
-
-
 I previously owned and operated a successful café before going on to complete degrees in Mechtronics Engineering and Computer Science in 2017.
 Whilst studying, I co-founded a startup after winning a hackathon and worked through the iAccelarate business incubator to build out our solution. 
 Throughout my studies, I worked as a freelance developer building websites and mobile applications (react + react-native/android) for clients and managing requirements and needs.
