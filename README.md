@@ -220,6 +220,8 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
 
 
 ![IBMprofileYoung](https://user-images.githubusercontent.com/12529822/121765960-ee154580-cb91-11eb-8219-169188fe1222.jpeg)
+|:--:|
+| <b>My first day coding.... XD </b>|
 
 
 <!--
