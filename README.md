@@ -219,7 +219,7 @@ PROPRIETOR & OWNER – Ally’s Premier Café, Port Macquarie, Australia
 [LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly) | [Podcast](https://techjam.dev/) | [Website](https://developerally.com)
 
 
-[IBMprofileYoung](https://user-images.githubusercontent.com/12529822/121765925-bdcda700-cb91-11eb-845f-793debb25629.jpeg)
+![IBMprofileYoung](https://user-images.githubusercontent.com/12529822/121765960-ee154580-cb91-11eb-8219-169188fe1222.jpeg)
 
 
 <!--
