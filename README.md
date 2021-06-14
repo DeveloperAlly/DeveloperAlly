@@ -29,10 +29,11 @@
 I'm Ally! 
 
 
-I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I have a passion for helping people by sharing my knowledge and working closely with developers and open source communities around the world.
+I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I'm passionate about the intersection between creativity, technology and culture & society and our opportunity to change the everyday lives of people and our planet through technology, innovation and cooperation. I’m also passionate about sharing my experience and helping build a supportive and inclusive tech community and passing on what I’ve learned from being part of the amazing tech and business ecosystem and working closely with developers and open source communities around the world.
 
 
 Coming from a strong background in technology consultancy, research & development, I have scoped and delivered projects of all sizes, budgets and timelines. I'm experienced in hands-on small business and startup operations, and applying technology to solve real world business problems by building scalable and feasible solutions.
+
 
 I previously owned and operated a successful café before going on to complete degrees in Mechtronics Engineering and Computer Science in 2017.
 Whilst studying, I co-founded a startup after winning a hackathon and worked through the iAccelarate business incubator to build out our solution. 
@@ -44,6 +45,10 @@ I also worked to develop the software for a novel ML and IOT surveillance system
 
 
 I’m currently working as a Developer Advocate for IBM where I focus on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements
+
+
+In my free time, you’ll find me learning french (Je m'intéresse beaucoup à la langue et à la culture françaises), out getting some well needed exercise or exploring some new tech (with some good tunes) !
+
 
 
  ---
