@@ -14,6 +14,8 @@
 
 <div align='center'>Developer Advocate @<a href="https://developer.ibm.com">IBM</a>, developer, coder, engineer, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐</div>
 
+<div align='center'><img src="https://miro.medium.com/max/478/0*oUJII8-quIMD4Isk.gif"/></div>
+
  ---
 
 
