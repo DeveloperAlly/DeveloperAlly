@@ -26,7 +26,7 @@
 ![]()
 
 
-I'm Ally, 
+I'm Ally! 
 
 
 I'm a coder, engineer and tech enthusiast who believes in the benefits technology can bring to everyday life. I have a passion for helping people by sharing my knowledge and working closely with developers and open source communities around the world.
