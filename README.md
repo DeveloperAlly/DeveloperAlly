@@ -6,7 +6,7 @@
   <a href="https://dev.to/developerally"><img height="30" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png"></a>&nbsp;&nbsp;
   <a href="https://developerally.medium.com/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png"></a>&nbsp;&nbsp;
   <a href="https://techjam.dev/"><img height="30" src="https://www.freeiconspng.com/uploads/spotify-icon-18.png"></a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/7254678/ally-haire"><img height="30" src="https://mpng.subpng.com/20180719/kfa/kisspng-stack-overflow-software-developer-computer-icons-l-overflowing-5b505e61d6db45.4750561915319936978801.jpg"></a>
+  <a href="https://stackoverflow.com/users/7254678/ally-haire"><img height="30" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/stackoverflow-256.png"></a>
 </p>
 
 
