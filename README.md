@@ -73,6 +73,8 @@ IBM Developer Blockchain Meetup (co-organiser): [YouTube](https://www.youtube.co
 
 AusIOT Meetups 2020 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
 
+IBM Call For Code Hackathon ANZ 2021 (organiser): [Blogpost](https://www.ibm.com/blogs/ibm-anz/ethixtension-wins-call-for-code-2021-anz-hackathon/)
+
 IBM Call For Code Hackathon ANZ (co-organiser): [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
 
 IBM Call For Code Hackathon ANZ (organiser): [Videos](https://www.youtube.com/watch?v=yuPMBpHaymA&list=PLtiUNuEehjeJHBtQljBJG0yBJUfIPs5Zi)
