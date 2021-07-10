@@ -71,7 +71,7 @@ IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel
 
 IBM Developer Blockchain Meetup (co-organiser): [YouTube](https://www.youtube.com/watch?v=5CMdJxcMOZU)
 
-AusIOT Meetups 2020 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
+AusIOT Meetups 2020 & 2021 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
 
 IBM Call For Code Hackathon ANZ 2021 (organiser): [Blogpost](https://www.ibm.com/blogs/ibm-anz/ethixtension-wins-call-for-code-2021-anz-hackathon/)
 
@@ -98,7 +98,7 @@ TechJam Podcast: [Listen to me chat with fellow advocates on various tech topics
  
  ### Contact Me 📫 
 
-Email: alihaire900@gmail.com
+Email: alihaire900@gmail.com (IKR - all that devving and I haven't set up a website and email!! :P)
 
 Socials: [LinkedIn](https://www.linkedin.com/in/ally-haire/) | [Twitter](https://twitter.com/DeveloperAlly)
 
