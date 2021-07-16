@@ -61,6 +61,8 @@ Tech Innovations that will change our future (writeup from a live workshop): [Bl
 
 APIDays Jakarta Conference - Cloud Native & OpenShift (live): [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
 
+BlockParty - react & web3 for Solidity Contracts (live at BrisJS): [YouTube](https://www.youtube.com/watch?v=tQKEyajkVp4)
+
 Build a react native app with Watson chatbot and map on IBM Cloud (live): [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
