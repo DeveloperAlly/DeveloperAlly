@@ -65,6 +65,8 @@ BlockParty - react & web3 for Solidity Contracts (live at BrisJS): [YouTube](htt
 
 Build a react native app with Watson chatbot and map on IBM Cloud (live): [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
+Getting Mobile with React-Native in 10 (ok 20) minutes (live): [YouTube](https://youtu.be/VSh5MKEBIbE?t=6544)
+
 TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
 
 ArtHack Hackathon - Techonology in Art (live): [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
