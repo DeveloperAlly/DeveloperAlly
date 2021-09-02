@@ -35,7 +35,7 @@ I'm a coder, engineer and tech enthusiast who believes in the benefits technolog
 Coming from a strong background in technology consultancy, research & development, I have scoped and delivered projects of all sizes, budgets and timelines. I'm experienced in hands-on small business and startup operations, and applying technology to solve real world business problems by building scalable and feasible solutions.
 
 
-I previously owned and operated a successful café before going on to complete degrees in Mechtronics Engineering and Computer Science in 2017.
+I previously owned and operated a successful café before going on to complete degrees in Mechatronics Engineering and Computer Science in 2017.
 Whilst studying, I co-founded a startup after winning a hackathon and worked through the iAccelarate business incubator to build out our solution. 
 Throughout my studies, I worked as a freelance developer building websites and mobile applications (react + react-native/android) for clients and managing requirements and needs.
 
@@ -72,8 +72,6 @@ TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/
 ArtHack Hackathon - Techonology in Art (live): [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
 IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
-
-IBM Developer Blockchain Meetup (co-organiser): [YouTube](https://www.youtube.com/watch?v=5CMdJxcMOZU)
 
 AusIOT Meetups 2020 & 2021 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
 
@@ -150,7 +148,7 @@ UNIVERSITY OF SYDNEY – Senior Software Engineer
 
 Nov 2019 - current
 
-    +	Full stack developer utilizing node, graphQL, reactjs, mapbox, d3 to create a front and back end product from scratch matching the needs of the defence force. Including security, devops, and UX design and architecture decisions.
+    +	Full stack developer utilizing node, graphQL, reactjs, mapbox, mongodb, devops, d3 to create a front and back end product from scratch matching the needs of the defence force. Including security, devops, and UX design and architecture decisions.
     
     +	In charge of the security of assets belonging to the team
 
