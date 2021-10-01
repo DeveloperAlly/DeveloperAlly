@@ -63,6 +63,8 @@ APIDays Jakarta Conference - Cloud Native & OpenShift (live): [YouTube](https://
 
 BlockParty - react & web3 for Solidity Contracts (live at BrisJS): [YouTube](https://www.youtube.com/watch?v=tQKEyajkVp4)
 
+Innovation in Blockchain(live snyk stream): [YouTube](https://www.youtube.com/watch?v=j9hZgwEcLVk)
+
 Build a react native app with Watson chatbot and map on IBM Cloud (live): [YouTube](https://www.youtube.com/watch?v=B_eLTA-r5n4)
 
 Getting Mobile with React-Native in 10 (ok 20) minutes (live): [YouTube](https://youtu.be/VSh5MKEBIbE?t=6544)
