@@ -71,6 +71,8 @@ Getting Mobile with React-Native in 10 (ok 20) minutes (live): [YouTube](https:/
 
 TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
 
+Using Moralis LiveQuery for a react web3 DApp: [YouTube](https://www.youtube.com/watch?v=5Gp4XPR-YW8)
+
 ArtHack Hackathon - Techonology in Art (live): [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
 
 IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
