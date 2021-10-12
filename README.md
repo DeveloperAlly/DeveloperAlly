@@ -59,7 +59,17 @@ In my free time, you’ll find me learning french (Je m'intéresse beaucoup à l
 
 Tech Innovations that will change our future (writeup from a live workshop): [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
+IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
+
+AusIOT Meetups 2020 & 2021 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
+
 APIDays Jakarta Conference - Cloud Native & OpenShift (live): [YouTube](https://www.youtube.com/watch?v=enEalcMfyU8)
+
+TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
+
+IBM Call For Code Hackathon ANZ 2021 (organiser): [Blogpost](https://www.ibm.com/blogs/ibm-anz/ethixtension-wins-call-for-code-2021-anz-hackathon/)
+
+IBM Call For Code Hackathon ANZ 2020 (co-organiser): [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
 
 BlockParty - react & web3 for Solidity Contracts (live at BrisJS): [YouTube](https://www.youtube.com/watch?v=tQKEyajkVp4)
 
@@ -69,19 +79,9 @@ Build a react native app with Watson chatbot and map on IBM Cloud (live): [YouTu
 
 Getting Mobile with React-Native in 10 (ok 20) minutes (live): [YouTube](https://youtu.be/VSh5MKEBIbE?t=6544)
 
-TechJam Podcast - we geek out on all things tech: [Podcast](https://techjam.dev/)
-
 Using Moralis LiveQuery for a react web3 DApp: [YouTube](https://www.youtube.com/watch?v=5Gp4XPR-YW8)
 
 ArtHack Hackathon - Techonology in Art (live): [YouTube](https://www.youtube.com/watch?v=l2GnCbPpg0Q)
-
-IBM Developer Meetups ANZ (organiser): [YouTube](https://www.youtube.com/channel/UC7lctqHrCUzbAtqi-81cgEg)
-
-AusIOT Meetups 2020 & 2021 (co-organiser): [YouTube](https://www.youtube.com/channel/UCsp9n86J7vk2WqMHqpAuZRA)
-
-IBM Call For Code Hackathon ANZ 2021 (organiser): [Blogpost](https://www.ibm.com/blogs/ibm-anz/ethixtension-wins-call-for-code-2021-anz-hackathon/)
-
-IBM Call For Code Hackathon ANZ 2020 (co-organiser): [BlogPost](https://www.ibm.com/blogs/ibm-anz/business-buddy-wins-our-final-call-for-code-hackathon/)
 
 IBM Call For Code Hackathon ANZ (organiser): [Videos](https://www.youtube.com/watch?v=yuPMBpHaymA&list=PLtiUNuEehjeJHBtQljBJG0yBJUfIPs5Zi)
 
