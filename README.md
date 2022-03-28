@@ -12,7 +12,7 @@
 
 
 
-<div align='center'>Developer Advocate @<a href="https://developer.ibm.com">IBM</a>, developer, coder, engineer, TechJam Podcast co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
+<div align='center'>Developer Advocate @<a href="https://filecoin.io/">Filecoin</a> @<a href="https://ipfs.io/">IPFS</a>, developer, coder, engineer, <a href="https://techjam.dev/">TechJam Podcast </a> co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
 
  ---
 
@@ -56,6 +56,7 @@ In my free time, you’ll find me learning french (Je m'intéresse beaucoup à l
 
 ### See me in action! 🦄
 
+Filecoin & IPFS: coming soon
 
 Tech Innovations that will change our future (writeup from a live workshop): [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
