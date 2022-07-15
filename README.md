@@ -44,7 +44,9 @@ I have since worked on enterprise-level technologies at Accenture Australia, pri
 I also worked to develop the software for a novel ML and IOT surveillance system  in a joint collaboration between the Defence Department and University of Sydney Physics Department
 
 
-I’m currently working as a Developer Advocate for IBM where I focus on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements
+I’m also worked as a Developer Advocate for IBM where I focused on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements.
+
+I now work on the building blocks of the open web, helping to build and engage the developer community at the Filecoin Foundation - the world's largest distributed storage network designed to store humanity's most important information.
 
 
 In my free time, you’ll find me learning french (Je m'intéresse beaucoup à la langue et à la culture françaises), out getting some well needed exercise or exploring some new tech (with some good tunes) !
