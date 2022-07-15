@@ -56,7 +56,7 @@ In my free time, you’ll find me learning french (Je m'intéresse beaucoup à l
 
 ### See me in action! 🦄
 
-Filecoin & IPFS: coming soon
+Filecoin & IPFS: [All 2022 Presentations, Talks & topics](https://filecoin.notion.site/f2bb65d371314e3290077782fbc87bc4?v=c3046acae7804056a15def33f301bc25)
 
 Tech Innovations that will change our future (writeup from a live workshop): [Blogpost](https://www.businessthink.unsw.edu.au/articles/four-tech-innovations-live-work)
 
