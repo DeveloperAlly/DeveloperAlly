@@ -136,7 +136,7 @@ BACHELOR OF ARTS – Australian National University, A.C.T. Australia
 ### Experience 👩‍💻
 
 
-IBM – Developer Advocate & Client Success Lead
+IBM – Developer Advocate & Client Success Lead, Pre-sales, PM
 
 April 2020 - Jan 2022
 
@@ -159,7 +159,7 @@ Nov 2019 - Nov 2021
     
     +	In charge of the security of assets belonging to the team
 
-ACCENTURE AUSTRALIA – Technical Architect
+ACCENTURE AUSTRALIA – Technical Architect & Solutions Engineer
 
 Jan 2018 - Nov 2019
 
