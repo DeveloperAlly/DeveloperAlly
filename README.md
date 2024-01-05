@@ -12,7 +12,7 @@
 
 
 
-<div align='center'>Developer Advocate @<a href="https://filecoin.io/">Filecoin</a> @<a href="https://ipfs.io/">IPFS</a> @<a href="https://protocol.ai/">Protocol Labs</a>, ex-IBM, developer, coder, engineer, <a href="https://techjam.dev/">TechJam Podcast </a> co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
+<div align='center'>CEO @ </a> @<a href="https://lilypad.tech/">IPFS</a> prev: <a href="https://filecoin.io/">Filecoin</a> @<a href="https://ipfs.io/">IPFS</a> @<a href="https://protocol.ai/">Protocol Labs</a>, ex-IBM, developer, coder, engineer, <a href="https://techjam.dev/">TechJam Podcast </a> co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
 
  ---
 
