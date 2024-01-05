@@ -12,7 +12,7 @@
 
 
 
-<div align='center'>CEO @ <a href="https://lilypad.tech/">Lilypad</a> prev: <a href="https://filecoin.io/">Filecoin</a> @<a href="https://ipfs.io/">IPFS</a> @<a href="https://protocol.ai/">Protocol Labs</a>, ex-IBM, developer, coder, engineer, <a href="https://techjam.dev/">TechJam Podcast </a> co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
+<div align='center'>CEO @ <a href="https://lilypad.tech/">Lilypad</a> prev: <a href="https://filecoin.io/">Filecoin</a> @<a href="https://ipfs.io/">IPFS</a> @<a href="https://protocol.ai/">Protocol Labs</a>, <a href="https://ibm.com/">IBM</a>, developer, coder, engineer, <a href="https://techjam.dev/">TechJam Podcast </a> co-host, dog lover 🐕, global citizen 🌏, LEGOMastersAU enthusiast, technologist 👩‍💻, aspiring francophone 🥐   she|her </div>
 
  ---
 
@@ -44,7 +44,7 @@ I have since worked on enterprise-level technologies at Accenture Australia, pri
 I also worked to develop the software for a novel ML and IOT surveillance system  in a joint collaboration between the Defence Department and University of Sydney Physics Department
 
 
-I’m also worked as a Developer Advocate for IBM where I focused on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements.
+I also worked as a Developer Advocate and success lead for IBM where I focused on building out the APAC IBM Developer community through technical workshops and blogs, hackathons, client and partner engagements, appearances at conferences and other engagements.
 
 I now work on the building blocks of the open web, helping to build and engage the developer community at the Filecoin Foundation - the world's largest distributed storage network designed to store humanity's most important information.
 
