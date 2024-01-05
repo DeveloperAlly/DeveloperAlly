@@ -136,7 +136,7 @@ BACHELOR OF ARTS – Australian National University, A.C.T. Australia
 ### Experience 👩‍💻
 
 
-IBM – Developer Advocate
+IBM – Developer Advocate & Client Success Lead
 
 April 2020 - Jan 2022
 
