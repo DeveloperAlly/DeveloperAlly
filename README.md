@@ -138,7 +138,7 @@ BACHELOR OF ARTS – Australian National University, A.C.T. Australia
 
 IBM – Developer Advocate
 
-April 2020 - current
+April 2020 - Jan 2022
 
     +	Organise and run external events (virtual/hybrid), Global/local Hackathons and Meetups throughout the APAC region
     
@@ -153,7 +153,7 @@ April 2020 - current
 
 UNIVERSITY OF SYDNEY – Senior Software Engineer
 
-Nov 2019 - current
+Nov 2019 - Nov 2021
 
     +	Full stack developer utilizing node, graphQL, reactjs, mapbox, mongodb, devops, d3 to create a front and back end product from scratch matching the needs of the defence force. Including security, devops, and UX design and architecture decisions.
     
@@ -191,7 +191,7 @@ LITTLE ELF LAUNDRY CO-FOUNDER – hosted at iAccelerate startup incubator, Wollo
 
 FREELANCE FULL STACK DEVELOPER
 
-2016-current
+2016-2021
 
     +	Founded and run a freelance web and mobile development business.
     
