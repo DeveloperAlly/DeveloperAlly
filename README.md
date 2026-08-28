@@ -1,3 +1,237 @@
+<div align="center">
+
+<!-- HEADER -->
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4"/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   ALISON (ALLY) HAIRE  ·  Technical Product Lead  ·  AI Infrastructure      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+**Engineer → Founder → AI Product Leader**
+
+*Built distributed compute infrastructure from smart contract to GPU node.*
+*Now finding the next hard problem in AI agents and automation.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ally--haire-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ally-haire)
+[![Blog](https://img.shields.io/badge/Blog-blog.alisonhaire.com-FF6B35?style=flat-square&logo=ghost)](https://blog.alisonhaire.com)
+[![Twitter](https://img.shields.io/badge/X-@DeveloperAlly-000000?style=flat-square&logo=x)](https://twitter.com/DeveloperAlly)
+[![Bluesky](https://img.shields.io/badge/Bluesky-alisonwonderland.bsky.social-0285FF?style=flat-square&logo=bluesky)](https://bsky.app/profile/alisonwonderland.bsky.social)
+[![Email](https://img.shields.io/badge/Email-contact@alisonhaire.com-EA4335?style=flat-square&logo=gmail)](mailto:contact@alisonhaire.com)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.05374-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.05374)
+
+</div>
+
+---
+
+## `> whoami`
+
+Mechatronics engineer and computer scientist who writes software, ships products, and thinks about AI systems from the hardware layer up — not the API surface down.
+
+Founded **[Lilypad Network](https://github.com/Lilypad-Tech)** — a permissionless distributed AI compute marketplace — and took it from a single Filecoin smart contract proof-of-concept to thousands of active GPU nodes running real AI workloads globally, before [open-sourcing the full codebase](https://github.com/Lilypad-Tech) in late 2025.
+
+Previously led Developer Experience for the **Filecoin Virtual Machine** launch at Protocol Labs, and Developer Advocacy across ANZ at **IBM**. Co-authored a [published arXiv paper](https://arxiv.org/abs/2501.05374) on GPU computation validation in trustless networks.
+
+Now writing, building AI tools and pipelines, and looking for the next hard problem.
+
+---
+
+## `> stats --highlight`
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **8+ years** building AI-powered products | **Thousands** of active GPU nodes at peak on Lilypad IncentiveNet |
+| **5,000+** CLI downloads of open-source AI tooling | **arXiv:2501.05374** — published researcher |
+| **1,000+ hackers** · **276 submissions** — Space Warp Hackathon (FVM launch) | **30+ indexed** conference talks across IBM, Protocol Labs & Lilypad eras |
+
+</div>
+
+---
+
+## `> career --timeline`
+
+```
+2023–2025  ████████████████  CEO & Founder · Lilypad Network
+2022–2023  ████████████      Senior DevRel Engineer & PM (FVM) · Filecoin Foundation / Protocol Labs
+2020–2022  ████████          Lead Developer Advocate, Hybrid Cloud · IBM
+2019–2022  ████████          Senior Software Engineer · University of Sydney × Australian Air Force [classified]
+2018–2019  ██████            Software Engineer & Consultant · Accenture Australia
+```
+
+---
+
+## `> projects --featured`
+
+### 🟣 [Lilypad Network](https://github.com/Lilypad-Tech) · *Founder*
+> Permissionless distributed AI compute — a three-sided marketplace for GPU providers, AI module creators, and developers. Shipped the full infrastructure stack: serverless inference pipelines, verifiable off-chain compute, job orchestration, containerised model deployment, and a Module Marketplace running Stable Diffusion, Ollama LLMs, protein folding models, and multi-step agent pipelines.
+
+`Distributed Systems` `AI Inference` `Smart Contracts` `Solidity` `Docker` `Python` `TypeScript` `Go`
+
+---
+
+### 🔵 [Waterlily.ai](https://github.com/Lilypad-Tech/Waterlily) · *Project Lead*
+> The first AI-generated art platform paying on-chain royalties to artists. Combined Filecoin Virtual Machine smart contracts and Bacalhau distributed compute for a full on-chain payment pipeline from image generation to royalty settlement.
+>
+> 📰 [SiliconANGLE](https://siliconangle.com/2023/04/27/new-waterlily-service-offers-ai-image-generation-pays-royalties-artists/) · [Filecoin Foundation](https://fil.org/blog/decentralizing-art-a-deep-dive-into-waterlily-ais-use-of-fvm-and-ai/) · [HackerNoon Top Story](https://hackernoon.com/u/developerally)
+
+`TypeScript` `Solidity` `FVM` `Bacalhau` `Stable Diffusion` `React`
+
+---
+
+### 🟡 [bacalhau-fvm-nft](https://github.com/DeveloperAlly/bacalhau-fvm-nft)
+> Creating an NFT on the Filecoin Virtual Machine with Bacalhau Stable Diffusion. The technical origin of Waterlily.ai and Lilypad v0.
+
+`TypeScript` `Solidity` `FEVM` `NFT` `Bacalhau`
+
+---
+
+### 🟢 [filecoin-expanded-nft-starter](https://github.com/DeveloperAlly/filecoin-expanded-nft-starter)
+> Multichain NFT contract supporting ERC-1155 and ERC-721 with on-the-fly background generation. A reference implementation for developers building on Filecoin.
+
+`JavaScript` `Solidity` `Multichain` `ERC-721` `ERC-1155`
+
+---
+
+### ⚪ [react-moralis-livequery-ping](https://github.com/DeveloperAlly/react-moralis-livequery-ping)
+> Next.js + React frontend tracking Solidity contract events on BSC, Kovan & Polygon using Moralis LiveQuery. Built for a live tutorial at BrisJS.
+
+`JavaScript` `React` `Moralis` `Solidity` `Web3` `Multichain`
+
+---
+
+### ⬜ [Chainlink-Keepers](https://github.com/DeveloperAlly/Chainlink-Keepers)
+> Solidity raffle contract with Chainlink VRF randomness and Chainlink Keepers automation.
+
+`JavaScript` `Solidity` `Chainlink` `Smart Contracts`
+
+---
+
+> **📌 Note on GitHub coverage:** A significant body of Lilypad work lives in the [Lilypad-Tech organisation](https://github.com/Lilypad-Tech). Additional Protocol Labs-era work is in the Bacalhau and Filecoin Foundation orgs. Some forks and workshop repos below may be imports from external work not yet fully attributed — in progress.
+
+---
+
+## `> skills --stack`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF7F00?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## `> research --publications`
+
+**Validation of GPU Computation in Decentralized, Trustless Networks**
+*Boniardi, Bishop, **Haire** — arXiv:2501.05374 — January 2025*
+
+> Proposes novel probabilistic frameworks for establishing computational integrity for non-deterministic GPU workloads on trustless networks. Addresses limitations of exact recomputation, TEEs, and FHE with a binary reference model and a trust-free ternary consensus framework.
+
+[![arXiv](https://img.shields.io/badge/Read_on_arXiv-2501.05374-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.05374)
+
+---
+
+## `> writing --selected`
+
+| Platform | Selected Work |
+|---|---|
+| **blog.alisonhaire.com** | MCP Server Guide · RAG vs CAG · Decentralised AI |
+| **Blockworks** | [A small group of tech giants are holding AI's future hostage](https://blockworks.co/news/ai-future-is-decentralized-compute-networks) (Sep 2024) |
+| **HackerNoon** | [Top Story — AI Art NFT DApp](https://hackernoon.com/u/developerally) (2023) |
+| **Dev.to** | [9 posts · Trusted Member 2022 · Tag Moderator](https://dev.to/developerally) |
+| **Hashnode** | [34 posts across 3 publications](https://hashnode.com/@DeveloperAlly) |
+
+---
+
+## `> speaking --indexed`
+
+30+ indexed talks. Recent highlights:
+
+- **SmartCon Barcelona** — Lilypad Network
+- **ETH DevConnect Istanbul** — Baklava Calibration Testnet launch (live on stage)
+- **Filecoin Unleashed Paris** — distributed compute and FVM
+- **Open D/I Summit** — decentralised AI infrastructure
+- **ETHGlobal Workshop** — AI Art NFTs on FEVM with Bacalhau Stable Diffusion · [YouTube](https://www.youtube.com/watch?v=nu55bKXnjlU)
+
+[![Sessionize](https://img.shields.io/badge/Speaker_Profile-Sessionize-1AB394?style=flat-square)](https://sessionize.com/alison-haire/)
+
+---
+
+## `> podcasts`
+
+| Show | Episode |
+|---|---|
+| Crypto Hipster Podcast (S7) | How to Build an Open, Serverless, Permissionless Compute Network |
+| DevNTell (Developer DAO) | EP.147 — Powering the AI-driven science revolution with Lilypad |
+| Proof of Talk | Lilypad architecture, IncentiveNet, DeSci/genomics |
+| Tech Jam Podcast *(co-host)* | DevOps, IoT, open-source, future of AI · [techjam.dev](https://techjam.dev/) |
+
+---
+
+## `> education`
+
+```
+BE (Mechatronics) / BCompSci (Honours)  ·  University of Wollongong  ·  2012–2017
+  → New Colombo Plan Scholarship — Robotics, China
+
+BA (partial) — Philosophy, Politics, French  ·  Australian National University  ·  1999–2001
+  → French: Professional Working Proficiency
+```
+
+---
+
+## `> github --audit-in-progress`
+
+> 🔧 **This profile is being audited and updated.** 84 repos currently — many are workshop demos, tutorials from IBM/Protocol Labs eras, and hackathon starters. Key production work lives in [Lilypad-Tech](https://github.com/Lilypad-Tech). Pinned repos above reflect the most representative public work. Forks from external orgs being imported. Watch this space.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAlly&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAlly&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+*Melbourne, Australia · contact@alisonhaire.com*
+
+</div>
+
+
+
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/ally-haire/"><img height="30" src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/DeveloperAlly"><img height="30" src="https://www.freeiconspng.com/uploads/twitter-icon-download-18.png"></a>&nbsp;&nbsp;
