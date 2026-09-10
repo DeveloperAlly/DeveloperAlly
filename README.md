@@ -217,9 +217,9 @@ BA (partial) — Philosophy, Politics, French  ·  Australian National Universit
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAlly&show_icons=true&hide_border=true&bg_color=050D0E&title_color=5BEFD0&text_color=ECFBF6&icon_color=FF5079&ring_color=14C7C3)
+<img src="https://github-readme-stats.vercel.app/api?username=DeveloperAlly&show_icons=true&hide_border=true&bg_color=050D0E&title_color=5BEFD0&text_color=ECFBF6&icon_color=FF5079&ring_color=14C7C3" alt="GitHub contribution stats for DeveloperAlly, including repositories, stars, commits, and activity." />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAlly&layout=compact&hide_border=true&bg_color=050D0E&title_color=5BEFD0&text_color=ECFBF6&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAlly&layout=compact&hide_border=true&bg_color=050D0E&title_color=5BEFD0&text_color=ECFBF6&langs_count=8" alt="Top languages used across DeveloperAlly repositories displayed as a compact summary card." />
 
 </div>
 
