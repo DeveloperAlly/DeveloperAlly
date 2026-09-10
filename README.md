@@ -3,9 +3,9 @@
 <!-- HEADER -->
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,2,16&height=4"/>
 
-<img src="https://raw.githubusercontent.com/DeveloperAlly/website-alison-haire/main/public/assets/logo-monogram.svg" alt="Alison Haire monogram" width="88" />
+<img src="./assets/logo-monogram.svg" alt="Alison Haire monogram" width="88" />
 
-<h3>alison haire<span style="color:#FF5079;">.</span></h3>
+### alison haire.
 
 ```text
 TECHNICAL PRODUCT LEAD  ·  AI INFRASTRUCTURE

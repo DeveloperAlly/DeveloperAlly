@@ -1,0 +1,19 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alison Haire AH monogram">
+  <defs>
+    <filter id="ahg" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.0" result="b"></feGaussianBlur>
+      <feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#ahg)">
+    <circle cx="60" cy="60" r="53" fill="none" stroke="#FF5079" stroke-width="1.6" opacity="0.22"></circle>
+    <circle cx="60" cy="60" r="44" fill="none" stroke="#FF5079" stroke-width="2.2" opacity="0.55" stroke-dasharray="205 35" stroke-linecap="round" transform="rotate(-26 60 60)"></circle>
+    <g fill="none" stroke="#5BEFD0" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M35 89 L60 30"></path>
+      <path d="M60 30 L60 89"></path>
+      <path d="M84 31 L84 89"></path>
+      <path d="M47 60 L84 60"></path>
+    </g>
+    <circle cx="92" cy="23" r="4" fill="#5BEFD0"></circle>
+  </g>
+</svg>
